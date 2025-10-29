@@ -3,21 +3,21 @@
 
 <p align="center">
   <a href="https://github.com/SanmuganthanLathusan" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanmuganthanLathusan&show_icons=true&theme=radical" alt="Lathusan GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SanmuganthanLathusan&show_icons=true&theme=radical" alt="Lathusan GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanmuganthanLathusan&theme=tokyonight&row=1&column=6" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SanmuganthanLathusan&theme=tokyonight&row=1&column=6" alt="GitHub Trophy"/>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanmuganthanLathusan" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SanmuganthanLathusan" alt="visitor badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanmuganthanLathusan&theme=dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmuganthanLathusan&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanmuganthanLathusan&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanmuganthanLathusan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
