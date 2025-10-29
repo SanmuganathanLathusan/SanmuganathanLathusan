@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lathusan</h1>
 <h3 align="center">Fullstack Developer & Aspiring Data Scientist from Sri Lanka 🇱🇰</h3>
-
 <p align="center">
   <a href="https://github.com/SanmuganthanLathusan" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=SanmuganthanLathusan&show_icons=true&theme=radical" alt="Lathusan GitHub Stats" />
@@ -20,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanmuganthanLathusan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
 ### 🚀 About Me
 - 🔭 **Completed Project:**  
