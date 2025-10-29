@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer & Aspiring Data Scientist from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <a href="https://github.com/sanmuganthanLathusan" target="_blank">
+  <a href="https://github.com/SanmuganthanLathusan" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=sanmuganthanLathusan&show_icons=true&theme=radical" alt="Lathusan GitHub Stats" />
   </a>
 </p>
@@ -11,11 +11,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanmuganthanLathusan&theme=tokyonight&row=1&column=6" alt="GitHub Trophy"/>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanmuganthanLathusan" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanmuganthanLathusan&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmuganthanLathusan&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 ---
 
 ### 🚀 About Me
 - 🔭 **Completed Project:**  
-  <b>PureNation</b> – An environmental volunteering platform connecting people across Sri Lanka for **cleaning campaigns, community services, and sustainability initiatives (Clean Sri Lanka Mission).**
+  <b>PureNation</b> – Environmental volunteering platform connecting people across Sri Lanka for **cleaning campaigns, community services, and sustainability initiatives (Clean Sri Lanka Mission).**
 
 - 🌱 **Currently Learning:**  
   Advanced MERN Stack | Flutter & Firebase | Data Science (NumPy, Pandas, Visualization & ML Basics)
@@ -53,7 +62,26 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img sr
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="38" height="38"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+</p>
+
+
+
+### ⚡ Fun Fact
+😄 I love combining **Fullstack Development + Data Science** to build meaningful projects. Always learning and experimenting!
 
 
 
