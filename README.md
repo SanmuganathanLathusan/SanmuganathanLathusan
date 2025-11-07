@@ -20,12 +20,9 @@
 ### 🔭 Completed Project  
 - **PureNation** – Environmental volunteering platform for a clean Sri Lanka 🌱  
 
----
 
-### 📫 Reach Me At  
-📧 **lathusananlathusan40@gmail.com**
+ 
 
----
 
 ### ⚡ Fun Fact  
 😎 I’m a chill person, fast learner, and love experimenting with new ideas!
@@ -33,9 +30,13 @@
 ---
 
 ## 🌐 Connect with Me  
+## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lathusan-lathusan)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://fb.com/lathusan.lathusan)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/active_boy_lathu)  
+[![Gmail](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:lathusananlathusan40@gmail.com)
+
+-----
 
 ---
 
