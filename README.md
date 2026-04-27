@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Lathusan 👋  
 ### A passionate Fullstack Developer & software Engineer Enthusiast from Sri Lanka 🇱🇰
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0099CC&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Data+Science+Enthusiast;Turning+Code+into+Impact!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0099CC&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Software+Engineer+Enthusiast;Turning+Code+into+Impact!)
 
 ---
 
